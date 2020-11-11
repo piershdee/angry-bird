@@ -1,1 +1,1 @@
-A clone the angry-bird game
+A clone the flappy bird game
